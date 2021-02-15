@@ -9,8 +9,8 @@ Ritika-21/Ritika-21 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-* Hi, I'm **Ritika**. 
+### Hi there👋 
+* My name is **Ritika**. 
 * I'm a CSE student.
 * I’m currently learning Blockchain.
 
