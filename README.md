@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi there👋 
-* My name is **Ritika**. 
+* My name is **Ritika Kashyap**. 
 * I'm a CSE student.
 * I’m currently learning Blockchain.
 
