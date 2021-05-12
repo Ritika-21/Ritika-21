@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 * I’m currently learning Blockchain.
 
 ### Skills
-* Languages- JavaScript, Solidity, HTML.
-* Frameworks- Nodejs. 
-* Tools- Truffle, Ganache, Git, Github, Geth, Weka.
+* Languages- C++, Golang, HTML/CSS, JavaScript, Solidity.
+* Frameworks- Vuejs, React.
+* Tools- MS-Excel, Truffle, Ganache, Git, Github, Geth, Weka.
