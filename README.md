@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 ### Hi there👋 
 * My name is **Ritika Kashyap**. 
 * I'm a CSE student.
-* I’m currently learning Blockchain.
+* Good knowledge of Blockchain and Front-end web development.
 
 ### Skills
-* Languages- C++, Golang, HTML/CSS, JavaScript, Solidity.
-* Frameworks- Vuejs, React.
-* Tools- MS-Excel, Truffle, Ganache, Git, Github, Geth, Weka.
+* Languages- Python, HTML, CSS, JavaScript, Solidity.
+* Libraries/Frameworks- Bootstrap, React, Node.Js.
+* Tools- Truffle, Ganache, Git, Github, Geth, Weka, MS-Excel.
